@@ -43,10 +43,6 @@ The output should be the following: `Your system is ready to brew.`
 
 Install [Oh My Zsh](https://ohmyz.sh/#install).
 
-## Theme
-
-Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k) for Oh My Zsh.
-
 # Git
 
 macOS comes with a pre-installed version of Git, but we'll install our own through Homebrew to allow easy upgrades and not interfere with the system version. To do so, simply run:
