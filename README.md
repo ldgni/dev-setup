@@ -171,7 +171,10 @@ Go to `System Settings` > `Desktop & Dock` > `Windows` and set `Prefer tabs when
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.guides.bracketPairs": "active",
   "workbench.iconTheme": "file-icons",
-  "workbench.colorTheme": "Tokyo Night Storm"
+  "workbench.colorTheme": "Tokyo Night Storm",
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
 }
 ```
 
