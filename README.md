@@ -172,6 +172,9 @@ Go to `System Settings` > `Desktop & Dock` > `Windows` and set `Prefer tabs when
   "editor.guides.bracketPairs": "active",
   "workbench.iconTheme": "file-icons",
   "workbench.colorTheme": "Tokyo Night Storm",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
   "editor.quickSuggestions": {
     "strings": "on"
   }
